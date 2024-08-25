@@ -1,7 +1,7 @@
 import { useState, useRef } from "react"
 import style from "./style.module.css"
 
-export const Main = () => {
+export const Page = () => {
   const [countTimer, setCountTimer] = useState(0);
   const [dataTimer, setDataTimer] = useState(0);
 

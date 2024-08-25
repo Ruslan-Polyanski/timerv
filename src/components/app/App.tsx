@@ -1,6 +1,6 @@
 
-import  { Main }  from '../main/Main';
+import  { Page }  from '../page/Page';
 
-const App = () => <Main />
+const App = () => <Page />
 
 export default App;
