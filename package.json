@@ -1,7 +1,7 @@
 {
   "name": "timer",
   "version": "0.1.0",
-  "homepage": "https://Ruslan-Polyanski.github.io//timerv",
+  "homepage": "https://ruslan-polyanski.github.io/timerv/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
