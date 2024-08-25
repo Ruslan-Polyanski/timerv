@@ -1,0 +1,27 @@
+
+.wrapper {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  margin-top: 50px;
+}
+
+.counter {
+  font-size: 20px;
+}
+
+.area {
+  margin-top: 20px;
+}
+
+.buttonBox {
+  margin-top: 10px;
+}
+
+button:hover {
+  cursor: pointer;
+} 
+
+button {
+  margin-right: 5px;
+}
